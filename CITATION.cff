@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+title: "A Stem-Boundary Perturbation Baseline for Evaluating Inter-Helix Variation in RNAbpFlow Structure Ensembles"
+type: software
+authors:
+  - family-names: "Dutta Pramanik"
+    given-names: "Pijush Kanti"
+    orcid: "https://orcid.org/0000-0001-9438-9309"
+    affiliation: "Center for Precision Health, McWilliams School of Biomedical Informatics, The University of Texas Health Science Center at Houston, Houston, Texas, USA"
+  - family-names: "Zhao"
+    given-names: "Zhongming"
+    orcid: "https://orcid.org/0000-0002-3477-0914"
+    affiliation: "Center for Precision Health, McWilliams School of Biomedical Informatics, The University of Texas Health Science Center at Houston, Houston, Texas, USA"
+repository-code: "https://github.com/Dr-PKDP/Topoknot_RNAbpFlow-Paper_A"
+license: MIT

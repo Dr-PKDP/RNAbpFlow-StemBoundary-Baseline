@@ -1,0 +1,11 @@
+name: rnabpflow
+channels:
+  - pytorch
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pytorch
+  - pip
+  - pip:
+      - torch_scatter

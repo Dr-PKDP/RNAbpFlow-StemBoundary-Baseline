@@ -1,0 +1,6 @@
+[
+  {"id": "5e54", "mode": "pair", "apo_pdb": "refs/5E54.pdb", "apo_chain": "A", "holo_pdb": "refs/4TZX.pdb", "holo_chain": "X"},
+  {"id": "t07",  "mode": "pair", "apo_pdb": "refs/8F4O.pdb", "apo_chain": "A", "holo_pdb": "refs/2GDI.pdb", "holo_chain": "X"},
+  {"id": "7kd1", "mode": "pair", "apo_pdb": "refs/7KD1.pdb", "apo_chain": "A", "holo_pdb": "refs/4LVV.pdb", "holo_chain": "A"},
+  {"id": "5kh8", "mode": "nmr",  "pdb": "refs/5KH8.pdb", "chain": "A"}
+]

@@ -1,0 +1,19 @@
+target_id,pdb_id,role,method,rna3db_2024-04-26_status,rfam_family,training_chains_same_family,training_chains_subthreshold_same_family
+T01,5E54,apo (pair with 4TZX),X-ray (XFEL),absent from RNA3DB,Purine (RF00167),24,0
+T01,4TZX,holo (pair with 5E54),X-ray,absent from RNA3DB,Purine (RF00167),24,0
+T02,2L1V,NMR ensemble,Solution NMR,absent from RNA3DB,PreQ1 (RF00522),3,11
+T03,2MIY,NMR ensemble,Solution NMR,absent from RNA3DB,preQ1-II (RF01054),0,0
+T04,3Q50,single structure,X-ray,absent from RNA3DB,PreQ1 (RF00522),3,11
+T05,4RZD,single structure,X-ray,absent from RNA3DB,PreQ1-III (RF02680),0,6
+T11,5KH8,NMR ensemble,Solution NMR,absent from RNA3DB,Fluoride (RF01734),0,0
+T07,8F4O,apo (pair with 2GDI),X-ray,absent from RNA3DB,TPP (RF00059),4,1
+T07,2GDI,holo (pair with 8F4O),X-ray,absent from RNA3DB,TPP (RF00059),4,1
+T09,5DDO,apo (pair with 5DDP),"X-ray, U1A-chaperoned",test split only,Glutamine-II (RF01704),1,2
+T09,5DDP,holo (pair with 5DDO),"X-ray, U1A-chaperoned",test split only,Glutamine-II (RF01704),1,2
+T10,7KD1,apo (pair with 4LVV),X-ray,absent from RNA3DB,THF (RF01831),0,0
+T10,4LVV,holo (pair with 7KD1),X-ray,absent from RNA3DB,THF (RF01831),0,0
+T15,3IRW,holo only,"X-ray, U1A-chaperoned",absent from RNA3DB,c-di-GMP-I (RF01051),7,2
+T17,8FW4,holo only,X-ray,absent from RNA3DB,Cobalamin (RF00174),3,6
+T19,6OD9,holo only,X-ray (XFEL),absent from RNA3DB,ZMP-ZTP (RF01750),3,1
+T06,8THV,ground/excited-state ensemble,Solution NMR with Rosetta-FARFAR,absent from RNA3DB,mir-TAR (RF00250),0,0
+T20,1P5M,NMR ensemble,Solution NMR,absent from RNA3DB,IRES_HCV (RF00061),6,1

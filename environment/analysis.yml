@@ -1,0 +1,13 @@
+name: paperA_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy=1.*
+  - pandas
+  - biopython
+  - matplotlib
+  - pip
+  - pip:
+      - statsmodels==0.14.*
