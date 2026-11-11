@@ -11,5 +11,5 @@ authors:
     given-names: "Zhongming"
     orcid: "https://orcid.org/0000-0002-3477-0914"
     affiliation: "Center for Precision Health, McWilliams School of Biomedical Informatics, The University of Texas Health Science Center at Houston, Houston, Texas, USA"
-repository-code: "https://github.com/Dr-PKDP/Topoknot_RNAbpFlow-Paper_A"
+repository-code: "https://github.com/Dr-PKDP/RNAbpFlow-StemBoundary-Baseline"
 license: MIT
